@@ -22,4 +22,14 @@
     section#redessociais {
         top: -370px;
     }
+
+    section#redessociais > a > img {
+        box-sizing: border-box;
+        position: relative;
+        width: 55px;
+        height: 55px;
+        margin: 7px;
+        border-radius: 50%;
+        transition: 0.3s;
+    }
 }

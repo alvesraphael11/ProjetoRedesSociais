@@ -5,6 +5,10 @@
         height: 700px;
     }
 
+    main {
+        height: 700px;
+    }
+
     section#telefone {
         background-image: url(../imagens/frame-iphone2.png);
         left: 40%;

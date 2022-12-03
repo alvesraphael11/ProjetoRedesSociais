@@ -1,5 +1,10 @@
 @media screen and (max-width: 481px) {
 
+    body, html {
+        width: 100%;
+        height: 100%;
+    }
+
     section#telefone {
         background-image: url(../imagens/frame-iphone2.png);
         left: 40%;
@@ -15,6 +20,6 @@
     }
 
     section#redessociais {
-        top: -450px;
+        top: -400px;
     }
 }

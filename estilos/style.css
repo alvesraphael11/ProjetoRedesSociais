@@ -19,8 +19,8 @@ main {
 
 section#telefone {
     position: relative;
-    width: 310px;
-    height: 627px;
+    width: 295px;
+    height: 600px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -31,9 +31,9 @@ section#telefone {
 iframe#tela {
     position: absolute;
     left: 23px;
-    top: 82px;
-    width: 265px;
-    height: 470px;
+    top: 78px;
+    width: 253px;
+    height: 448px;
 }
 
 section#redessociais {

@@ -2,14 +2,19 @@
 
     section#telefone {
         background-image: url(../imagens/frame-iphone2.png);
-        width: 199px;
-        height: 400px;
+        left: 40%;
+        width: 224px;
+        height: 450px;
     }
 
     iframe#tela {
-        left: 15px;
-        top: 52px;
-        width: 170px;
-        height: 299px;
+        left: 17px;
+        top: 59px;
+        width: 191px;
+        height: 336px;
+    }
+
+    section#redessociais {
+        top: -450px;
     }
 }
